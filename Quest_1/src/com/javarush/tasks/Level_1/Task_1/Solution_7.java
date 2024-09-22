@@ -9,7 +9,7 @@ public class Solution_7 {
         for (char c : message) {
             sb.append(c);
         }
-        System.out.println(sb.toString());
-        // System.out.println(sb); // Вызывает sb.toString() неявно
+        // System.out.println(sb.toString());
+        System.out.println(sb); // Вызывает sb.toString() неявно
     }
 }
