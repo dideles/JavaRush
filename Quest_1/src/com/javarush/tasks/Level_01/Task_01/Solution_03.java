@@ -1,8 +1,8 @@
-package com.javarush.tasks.Level_1.Task_1;
+package Quest_1.src.com.javarush.tasks.Level_01.Task_01;
 
 // Конкатенации строк для создания нужного текста
 
-public class Solution_3 {
+public class Solution_03 {
     public static void main(String[] args) {
         String part1 = "Амиго";
         String part2 = " ";

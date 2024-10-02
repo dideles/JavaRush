@@ -1,8 +1,8 @@
-package Quest_1.Level_3.Task_25;
+package Quest_1.src.com.javarush.tasks.Level_03.Task_25;
 
 import java.util.Scanner;
 
-public class Solution {
+public class Solution_01 {
     public static void main(String[] args) {
         String militaryCommissar = ", явитесь в военкомат";
         //напишите тут ваш код

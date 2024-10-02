@@ -1,6 +1,6 @@
-package Quest_1.Level_2.Task_11;
+package Quest_1.src.com.javarush.tasks.Level_02.Task_11;
 
-public class Solution {
+public class Solution_01 {
 
     public static void main(String[] args) {
         // объявляем переменную number типа int и сразу же в строке объявления

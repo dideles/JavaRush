@@ -1,8 +1,8 @@
-package Quest_1.Level_3.Task_26;
+package Quest_1.src.com.javarush.tasks.Level_03.Task_26;
 
 import java.util.Scanner;
 
-public class Solution {
+public class Solution_01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int age = scanner.nextInt();

@@ -1,8 +1,8 @@
-package com.javarush.tasks.Level_1.Task_1;
+package Quest_1.src.com.javarush.tasks.Level_01.Task_01;
 
 // Использование StringBuilder для создания изменяемых строк
 
-public class Solution_5 {
+public class Solution_05 {
     public static void main(String[] args) {
         StringBuilder message = new StringBuilder();
         message.append("Амиго");
@@ -17,6 +17,7 @@ public class Solution_5 {
         int end = start + "сильно".length();
         message.delete(start, end);
 
-        System.out.println(message.toString());
+        // System.out.println(message.toString());
+        System.out.println(message);
     }
 }

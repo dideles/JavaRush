@@ -1,6 +1,6 @@
-package Quest_1.Level_2.Task_15;
+package Quest_1.src.com.javarush.tasks.Level_02.Task_15;
 
-public class Solution {
+public class Solution_01 {
     public static void main(String[] args) {
         // объявляем переменную s1 типа String и присваиваем ей значение
         String s1 = "Do";

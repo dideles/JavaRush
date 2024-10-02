@@ -1,4 +1,4 @@
-package Quest_1.Level_1.Task_1;
+package Quest_1.src.com.javarush.tasks.Level_01.Task_01;
 
 // Использование интерфейс Runnable и лямбда-выражение (Java 8+)
 

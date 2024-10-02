@@ -1,8 +1,8 @@
-package Quest_1.Level_3.Task_24;
+package Quest_1.src.com.javarush.tasks.Level_03.Task_24;
 
 import java.util.Scanner;
 
-public class Solution {
+public class Solution_01 {
     public static void main(String[] args) {
         String cold = "на улице холодно";
         String warm = "на улице тепло";

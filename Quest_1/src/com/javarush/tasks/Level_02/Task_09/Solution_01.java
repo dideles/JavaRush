@@ -1,6 +1,6 @@
-package Quest_1.Level_2.Task_09;
+package Quest_1.src.com.javarush.tasks.Level_02.Task_09;
 
-public class Solution {
+public class Solution_01 {
 
     public static void main(String[] args) {
         // напишите тут ваш код

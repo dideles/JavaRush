@@ -1,8 +1,8 @@
-package Quest_1.Level_3.Task_27;
+package Quest_1.src.com.javarush.tasks.Level_03.Task_27;
 
 import java.util.Scanner;
 
-public class Solution {
+public class Solution_01 {
     private static boolean isHigh;
     private static boolean isLow;
 

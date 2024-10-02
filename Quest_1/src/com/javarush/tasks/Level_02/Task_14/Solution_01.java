@@ -1,6 +1,6 @@
-package Quest_1.Level_2.Task_14;
+package Quest_1.src.com.javarush.tasks.Level_02.Task_14;
 
-public class Solution {
+public class Solution_01 {
 
     public static void main(String[] args) {
         // объявляем переменную word типа String и присваиваем ей значение

@@ -1,6 +1,6 @@
-package Quest_1.Level_1.Task_8;
+package Quest_1.src.com.javarush.tasks.Level_01.Task_08;
 
-public class Solution {
+public class Solution_01 {
     public static void main(String[] args) {
         int a = 3;
         int b = 2;

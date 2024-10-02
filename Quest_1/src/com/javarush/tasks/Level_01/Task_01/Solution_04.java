@@ -1,8 +1,8 @@
-package com.javarush.tasks.Level_1.Task_1;
+package Quest_1.src.com.javarush.tasks.Level_01.Task_01;
 
 // Использование метода concat
 
-public class Solution_4 {
+public class Solution_04 {
     public static void main(String[] args) {
 
         String message = "Амиго".concat(" ").concat("очень").concat(" ").concat("умный");

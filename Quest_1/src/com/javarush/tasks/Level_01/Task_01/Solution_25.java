@@ -1,4 +1,4 @@
-package Quest_1.Level_1.Task_1;
+package Quest_1.src.com.javarush.tasks.Level_01.Task_01;
 
 // Использование List и метода stream
 
@@ -9,13 +9,13 @@ import java.util.stream.Collectors;
 public class Solution_25 {
     public static void main(String[] args) {
         List<String> words = Arrays.asList("Амиго", "очень", "умный");
-        /**
+        /*
          * Метод String.join принимает два аргумента:
          * строку-разделитель (в данном случае пробел " ") и коллекцию строк (words).
          */
         // String result = String.join(" ", words);
 
-        /**
+        /*
          * Это метод для объединения элементов коллекции, используя Java Stream API.
          * Обеспечивает более высокую гибкость и мощность при обработке данных.
          * Полезно для сложной обработки данных перед объединением, например, фильтрация или преобразование элементов.

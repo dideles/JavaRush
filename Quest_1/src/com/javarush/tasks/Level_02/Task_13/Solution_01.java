@@ -1,6 +1,6 @@
-package Quest_1.Level_2.Task_13;
+package Quest_1.src.com.javarush.tasks.Level_02.Task_13;
 
-public class Solution {
+public class Solution_01 {
     public static void main(String[] args) {
         // объявляем переменную toothCounter типа int и сразу же в строке
         // объявления присваиваем ей значение 32
