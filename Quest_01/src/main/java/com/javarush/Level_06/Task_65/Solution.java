@@ -30,7 +30,7 @@ public class Solution {
             System.out.print(strings[i] + ", ");
         }*/
         // Warning:(28, 9) 'for' loop can be replaced with enhanced 'for'
-        
+
         for (String str : strings) {
             if (str != null) {
                 System.out.print(str + ", ");
