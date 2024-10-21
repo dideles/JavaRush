@@ -1,0 +1,15 @@
+Task № 121 "Флаги" (MEDIUM)
+
+Реализуй методы:
+    1. setFlag(int number, int flagPos) — устанавливает значение "1" биту под индексом flagPos числа number
+        и возвращает новое значение.
+    2. resetFlag(int number, int flagPos) — устанавливает значение "0" биту под индексом flagPos числа number
+        и возвращает новое значение.
+    3. checkFlag(int number, int flagPos) — проверяет значение бита под индексом flagPos числа number и возвращает true,
+        если значение "1" и false, если "0".
+
+
+Требования:
+1. Реализуй метод setFlag(int, int) согласно условию.
+2. Реализуй метод resetFlag(int, int) согласно условию.
+3. Реализуй метод checkFlag(int, int) согласно условию.
