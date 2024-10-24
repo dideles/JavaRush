@@ -1,0 +1,16 @@
+Task № 139 "StringTokenizer" (MEDIUM)
+
+Используя StringTokenizer раздели query на части по разделителю delimiter.
+
+Пример:
+    getTokens("java.util.stream", "\\.")
+возвращает массив строк
+    {"java", "util", "stream"}
+
+Hint:
+    решить задачу поможет метод countTokens().
+
+
+Требования:
+1. Нужно, чтобы метод getTokens(String, String) использовал StringTokenizer.
+2. Нужно, чтобы метод getTokens(String, String) возвращал массив типа String, заполненный согласно условию задачи.
