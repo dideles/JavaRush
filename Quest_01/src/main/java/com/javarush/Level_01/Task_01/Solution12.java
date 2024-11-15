@@ -1,15 +1,18 @@
 package com.javarush.Level_01.Task_01;
 
-// Использование цикла для создания строки
-
+/**
+ * Вывод элементов массива строк в консоль через цикл с пробелом.
+ * НО нужно учитывать, что после последнего слова также будет добавлен лишний пробел.
+ * См. Solution13
+ */
 public class Solution12 {
     public static void main(String[] args) {
         String[] words = {"Амиго", "очень", "умный"};
-        StringBuilder result = new StringBuilder();
         for (String word : words) {
-            result.append(word).append(" ");
+            System.out.print(word + " ");
+            // System.out.print((word + " ").toString().trim()); // может быть излишне ресурсоемким для длинных строк
         }
-        System.out.println(result.toString().trim());
+
     }
 }
 
