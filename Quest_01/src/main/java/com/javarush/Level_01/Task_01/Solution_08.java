@@ -1,7 +1,7 @@
 package com.javarush.Level_01.Task_01;
 
 /**
- * Представление строки в виде массива символов и затем собрать строку, используя StringBuilder.
+ * Представление строки в виде массива символов и затем cборка строку, используя StringBuilder.
  */
 public class Solution_08 {
     public static void main(String[] args) {
@@ -29,6 +29,28 @@ public class Solution_08 {
 
         for (char c : message) {
             sb.append(c);
+            /*
+            System.out.println(sb);
+
+            А
+            Ам
+            Ами
+            Амиг
+            Амиго
+            Амиго
+            Амиго о
+            Амиго оч
+            Амиго оче
+            Амиго очен
+            Амиго очень
+            Амиго очень
+            Амиго очень у
+            Амиго очень ум
+            Амиго очень умн
+            Амиго очень умны
+            Амиго очень умный
+            */
+
         }
 
         // System.out.println(sb.toString());
