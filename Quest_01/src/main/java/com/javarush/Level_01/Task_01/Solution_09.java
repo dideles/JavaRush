@@ -1,7 +1,7 @@
 package com.javarush.Level_01.Task_01;
 
 /**
- * С использованием массива символов
+ * С использованием массива символов.
  */
 public class Solution_09 {
     public static void main(String[] args) {
