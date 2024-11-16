@@ -1,7 +1,7 @@
 package com.javarush.Level_01.Task_01;
 
 /**
- * Использование строковой переменной
+ * Использование строковой переменной.
  */
 public class Solution_02 {
     public static void main(String[] args) {
