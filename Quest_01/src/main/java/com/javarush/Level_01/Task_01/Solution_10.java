@@ -1,9 +1,9 @@
 package com.javarush.Level_01.Task_01;
 
 /**
- * Вывод массива символов в консоль
+ * Вывод массива символов в консоль.
  */
-public class Solution10 {
+public class Solution_10 {
     public static void main(String[] args) {
         char[] letters = {
                 'А', 'м', 'и', 'г', 'о',
