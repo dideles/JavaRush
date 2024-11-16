@@ -1,7 +1,7 @@
 package com.javarush.Level_01.Task_01;
 
 /**
- * Представление строки в виде массива символов и затем собрать строку, используя StringBuilder
+ * Представление строки в виде массива символов и затем собрать строку, используя StringBuilder.
  */
 public class Solution_08 {
     public static void main(String[] args) {
