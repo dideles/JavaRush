@@ -1,7 +1,7 @@
 package com.javarush.Level_01.Task_01;
 
 /**
- * Конкатенации строк для создания нужного текста
+ * Конкатенации строк для создания нужного текста.
  */
 public class Solution_03 {
     public static void main(String[] args) {
