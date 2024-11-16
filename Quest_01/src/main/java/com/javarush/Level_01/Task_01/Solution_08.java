@@ -29,8 +29,8 @@ public class Solution_08 {
 
         for (char c : message) {
             sb.append(c);
+            // System.out.println(sb);
             /*
-            System.out.println(sb);
 
             А
             Ам
@@ -50,6 +50,7 @@ public class Solution_08 {
             Амиго очень умны
             Амиго очень умный
             */
+            // sb.append(c).append(" "); // А м и г о   о ч е н ь   у м н ы й
 
         }
 
