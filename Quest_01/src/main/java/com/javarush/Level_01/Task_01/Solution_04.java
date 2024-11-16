@@ -4,7 +4,7 @@ package com.javarush.Level_01.Task_01;
  * Использование метода concat.
  * Этот метод добавляет указанную строку в конец текущей строки.
  */
-public class Solution04 {
+public class Solution_04 {
     public static void main(String[] args) {
 
         String message = "Амиго".concat(" ").concat("очень").concat(" ").concat("умный");
