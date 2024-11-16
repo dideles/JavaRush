@@ -1,7 +1,7 @@
 package com.javarush.Level_01.Task_01;
 
 /**
- * Прямой вывод строки
+ * Прямой вывод строки.
  */
 public class Solution_01 {
     public static void main(String[] args) {
