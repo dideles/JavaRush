@@ -3,7 +3,7 @@ package com.javarush.Level_01.Task_01;
 /**
  * Использования метода String.join() для объединения строк с пробелами.
  */
-public class Solution06 {
+public class Solution_06 {
     public static void main(String[] args) {
         String message = String.join(" ", "Амиго", "очень", "умный");
         System.out.println(message);
