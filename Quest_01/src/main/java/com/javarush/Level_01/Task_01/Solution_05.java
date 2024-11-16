@@ -1,7 +1,7 @@
 package com.javarush.Level_01.Task_01;
 
 /**
- * Использование StringBuilder для создания изменяемых строк
+ * Использование StringBuilder для создания изменяемых строк.
  */
 public class Solution_05 {
     public static void main(String[] args) {
