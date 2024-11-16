@@ -15,5 +15,6 @@ public class Solution {
 //        System.out.print(" будет ");
 //        System.out.print("пять");
         System.out.print(a + b); // 5
+        // 2 плюс 3 равно 5
     }
 }
