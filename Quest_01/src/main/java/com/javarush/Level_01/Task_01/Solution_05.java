@@ -3,7 +3,7 @@ package com.javarush.Level_01.Task_01;
 /**
  * Использование StringBuilder для создания изменяемых строк
  */
-public class Solution05 {
+public class Solution_05 {
     public static void main(String[] args) {
 
         // StringBuilder message = new StringBuilder();
