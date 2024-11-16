@@ -2,13 +2,16 @@ package com.javarush.Level_01.Task_01;
 
 // Использование StringBuilder для создания изменяемых строк
 
-public class Solution07 {
+public class Solution_07 {
     public static void main(String[] args) {
+
         /*
         StringBuilder sb = new StringBuilder();
         sb.append("Амиго").append(" ").append("очень").append(" ").append("умный");
         System.out.println(sb); // Вызывает sb.toString() неявно
         // Warning:(7, 23) 'StringBuilder sb' can be replaced with 'String'
+        // Использование StringBuilder может быть избыточным, так как все строки статичны.
+        // Оправдано только если нужно динамически изменять строку, добавлять к ней новые части или удалять их.
         */
 
         System.out.println("Амиго" + " " + "очень" + " " + "умный"); // Вызывает sb.toString() неявно
